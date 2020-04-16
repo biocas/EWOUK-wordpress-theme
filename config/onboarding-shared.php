@@ -113,28 +113,6 @@ return [
 					'visual' => 1,
 				],
 			],
-		],
-		'footer-2' => [
-			[
-				'type' => 'text',
-				'args' => [
-					'title'  => 'Content',
-					'text'   => '<p>Our team will teach you the art of writing audience-focused content that will help you achieve the success you truly deserve.</p><p><a href="#">Learn more about content</a>.</p>',
-					'filter' => 1,
-					'visual' => 1,
-				],
-			],
-		],
-		'footer-3' => [
-			[
-				'type' => 'text',
-				'args' => [
-					'title'  => 'Strategy',
-					'text'   => '<p>We help creative entrepreneurs build their digital business by focusing on three key elements of a successful online platform.</p><p><a href="#">Learn more about strategy</a>.</p>',
-					'filter' => 1,
-					'visual' => 1,
-				],
-			],
-		],
+		]
 	],
 ];

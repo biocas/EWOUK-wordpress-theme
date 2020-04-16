@@ -9,7 +9,7 @@
  */
 
 return [
-	'alignment'              => 'alignleft',
+	'alignment'              => 'alignCenter',
 	'background_color'       => '#f5f5f5',
 	'background_color_hover' => '#333333',
 	'border_radius'          => 3,

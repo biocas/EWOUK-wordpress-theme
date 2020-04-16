@@ -177,14 +177,14 @@ textarea:focus,
 }
 
 a {
-	color: #0073e5;
+	color: #3F53D8;
 	text-decoration: underline;
 	transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out;
 }
 
 a:focus,
 a:hover {
-	color: #333;
+	color: #FFCF2F;
 	text-decoration: none;
 }
 
@@ -242,8 +242,6 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: "Source Sans Pro", sans-serif;
-	font-weight: 400;
 	line-height: 1.2;
 	margin: 0 0 20px;
 }
@@ -384,8 +382,8 @@ input,
 select,
 textarea {
 	background-color: #fff;
-	border: 1px solid #ddd;
-	color: #333;
+	border: 1px solid #050237;
+	color: #050237;
 	font-size: 18px;
 	font-weight: 400;
 	padding: 15px;
@@ -394,7 +392,7 @@ textarea {
 
 input:focus,
 textarea:focus {
-	border: 1px solid #999;
+	border: 1px solid #050237;
 	outline: none;
 }
 
@@ -405,17 +403,17 @@ input[type="radio"] {
 }
 
 ::-ms-input-placeholder {
-	color: #333;
+	color: #050237;
 	opacity: 1;
 }
 
 :-ms-input-placeholder {
-	color: #333;
+	color: #050237;
 	opacity: 1;
 }
 
 ::placeholder {
-	color: #333;
+	color: #050237;
 	opacity: 1;
 }
 
@@ -426,7 +424,7 @@ input[type="submit"],
 .site-container div.wpforms-container-full .wpforms-form input[type="submit"],
 .site-container div.wpforms-container-full .wpforms-form button[type="submit"],
 .button {
-	background-color: #333;
+	background-color: #3F53D8;
 	border: 0;
 	border-radius: 5px;
 	color: #fff;
@@ -454,7 +452,7 @@ input[type="submit"]:hover,
 .site-container div.wpforms-container-full .wpforms-form button[type="submit"]:hover,
 .button:focus,
 .button:hover {
-	background-color: #0073e5;
+	background-color: #FFCF2F;
 	border-width: 0;
 	color: #fff;
 }
@@ -699,13 +697,13 @@ th {
 
 .entry-title a,
 .sidebar .widget-title a {
-	color: #333;
+	color: #050237;
 	text-decoration: none;
 }
 
 .entry-title a:focus,
 .entry-title a:hover {
-	color: #0073e5;
+	color: #FFCF2F;
 }
 
 .widget-title {
@@ -1030,7 +1028,7 @@ figcaption,
 .site-title a,
 .site-title a:focus,
 .site-title a:hover {
-	color: #333;
+	color: #3F53D8;
 	text-decoration: none;
 }
 
@@ -1414,10 +1412,11 @@ p.entry-meta {
 ---------------------------------------------------------------------------- */
 
 .footer-widgets {
-	border-top: 1px solid #eee;
+	
 	background-color: #fff;
 	clear: both;
 	padding: 60px 0;
+    width: 100%;
 }
 
 .footer-widgets .wrap {
@@ -1436,13 +1435,21 @@ p.entry-meta {
 	margin-bottom: 0;
 }
 
+.footer-logo {
+    display: block;
+	margin-left: auto;
+    margin-right: auto;
+}
+
 
 /* Site Footer
 ---------------------------------------------------------------------------- */
 
 .site-footer {
 	background-color: #fff;
-	border-top: 1px solid #eee;
+	border-top: 1px solid black;
+    margin-left: 5rem;
+    margin-right: 5rem;
 	font-size: 15px;
 	line-height: 1.5;
 	padding: 30px;
@@ -1700,7 +1707,7 @@ p.entry-meta {
 	.footer-widget-area {
 		float: left;
 		margin-bottom: 0;
-		width: calc(100% / 3);
+		width: 100%;
 	}
 
 }
