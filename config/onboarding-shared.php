@@ -82,23 +82,83 @@ return [
 				'_genesis_hide_footer_widgets' => true,
 			],
 		],
+        'register' => [
+			'post_title'     => 'REGISTER FOR WORKSHOP',
+			'post_content'   => require dirname( __FILE__ ) . '/import/content/register.php',
+			'post_type'      => 'page',
+			'post_status'    => 'publish',
+			'page_template'  => 'page-templates/register.php',
+			'comment_status' => 'closed',
+			'ping_status'    => 'closed',
+			'meta_input'     => [
+				'_genesis_layout'              => 'full-width-content',
+				'_genesis_hide_breadcrumbs'    => true,
+				'_genesis_hide_singular_image' => true,
+				'_genesis_hide_footer_widgets' => true,
+			],
+		],
+        'engage' => [
+			'post_title'     => 'ENGAGE YOUR COMMUNITY',
+			'post_content'   => require dirname( __FILE__ ) . '/import/content/engage.php',
+			'post_type'      => 'page',
+			'post_status'    => 'publish',
+			'page_template'  => 'page-templates/engage.php',
+			'comment_status' => 'closed',
+			'ping_status'    => 'closed',
+			'meta_input'     => [
+				'_genesis_layout'              => 'full-width-content',
+				'_genesis_hide_breadcrumbs'    => true,
+				'_genesis_hide_singular_image' => true,
+				'_genesis_hide_footer_widgets' => true,
+			],
+		],
+        'tools' => [
+			'post_title'     => 'Our Tools',
+			'post_content'   => require dirname( __FILE__ ) . '/import/content/tools.php',
+			'post_type'      => 'page',
+			'post_status'    => 'publish',
+			'page_template'  => 'page-templates/tools.php',
+			'comment_status' => 'closed',
+			'ping_status'    => 'closed',
+			'meta_input'     => [
+				'_genesis_layout'              => 'full-width-content',
+				'_genesis_hide_breadcrumbs'    => true,
+				'_genesis_hide_singular_image' => true,
+				'_genesis_hide_footer_widgets' => true,
+			],
+		],
+        'projects' => [
+			'post_title'     => 'Projects',
+			'post_content'   => require dirname( __FILE__ ) . '/import/content/projects.php',
+			'post_type'      => 'page',
+			'post_status'    => 'publish',
+			'page_template'  => 'page-templates/projects.php',
+			'comment_status' => 'closed',
+			'ping_status'    => 'closed',
+			'meta_input'     => [
+				'_genesis_layout'              => 'full-width-content',
+				'_genesis_hide_breadcrumbs'    => true,
+				'_genesis_hide_singular_image' => true,
+				'_genesis_hide_footer_widgets' => true,
+			],
+		],
 	],
 	'navigation_menus' => [
 		'primary' => [
-			'homepage' => [
-				'title' => 'Home',
+            'engage' => [
+				'title' => 'ENGAGE YOUR COMMUNITY',
+			],
+			'register' => [
+				'title' => 'REGISTER FOR WORKSHOP',
 			],
 			'about'    => [
 				'title' => 'About Us',
 			],
 			'contact'  => [
-				'title' => 'Contact Us',
+				'title' => 'Our Tools',
 			],
 			'blocks'   => [
-				'title' => 'Block Examples',
-			],
-			'landing'  => [
-				'title' => 'Landing Page',
+				'title' => 'Projects',
 			],
 		],
 	],
