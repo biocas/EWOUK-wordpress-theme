@@ -1,0 +1,396 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "hornsby",
+        "class": "ppp-marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.09926223754883,
+          -33.7038491597578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "class": "ppp-marker",
+        "id": "elanora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.29993438720703,
+          -33.70177841892668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "class": "ppp-marker",
+        "id": "turramurra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.09651565551755,
+          -33.745467600106174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "bidwill",
+        "class": "ppp-marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.80245971679688,
+          -33.705205824960665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "class": "ppp-marker",
+        "id": "eastern-creek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.86769104003906,
+          -33.81880393123659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "class": "ppp-marker",
+        "id": "colyton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.75714111328122,
+          -33.776579004475096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "class": "ppp-marker",
+        "parramatta": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.00107192993164,
+          -33.809248085945384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "class": "ppp-marker",
+        "id": "liverpool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.92863082885742,
+          -33.92235209340369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "class": "ppp-marker",
+        "id": "camden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.69894790649414,
+          -34.05237497000483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "class": "ppp-marker",
+        "id": "chatswood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1773681640625,
+          -33.819659626496865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "class": "ppp-marker",
+        "id": "north-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.21032714843747,
+          -33.82365275784205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "class": "ppp-marker",
+        "id": "north-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.20826721191406,
+          -33.83620138527279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "class": "ppp-marker",
+        "id": "m4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.09359741210938,
+          -33.88010707260322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "class": "ppp-marker",
+        "id": "st-peters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.15127563476562,
+          -33.93253620840841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "class": "ppp-marker",
+        "id": "mcdonald"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.20758056640625,
+          -33.90860516848034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "class": "ppp-marker",
+        "id": "syd-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.19796752929688,
+          -33.87497640410958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "class": "ppp-marker",
+        "id": "syd-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.20758056640625,
+          -33.865854454071844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "class": "ppp-marker",
+        "id": "syd-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.20895385742185,
+          -33.86984542716022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "class": "ppp-marker",
+        "id": "syd-4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.22474670410153,
+          -33.87041555094182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "class": "ppp-marker",
+        "id": "syd-5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.22955322265625,
+          -33.87554649361944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "class": "ppp-marker",
+        "id": "syd-6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.21719360351562,
+          -33.87725673930016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "class": "ppp-marker",
+        "id": "east-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.23779296875,
+          -33.88637747072754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "class": "ppp-marker",
+        "id": "east-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2494659423828,
+          -33.90176649398625
+        ]
+      }
+    }
+  ]
+}
